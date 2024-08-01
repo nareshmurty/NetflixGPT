@@ -2,6 +2,8 @@
 
 - Create React App
 - Configured TailwindCSS
+- Header
+- Login Form(for large forms we can use Formik Libarary)
 
 # Features
 
